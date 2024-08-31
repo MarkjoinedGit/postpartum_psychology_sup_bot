@@ -9,10 +9,12 @@ sentence-transformers
 gpt4all
 pinecone
 langchain_pinecone
-llama_cpp
 lxml_html_clean
 requests
 beautifulsoup4
 readability-lxml
 fpdf 
 unidecode
+llama-cpp-python
+llama-cpp-python[server]
+langchain_openai
