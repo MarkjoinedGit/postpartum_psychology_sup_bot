@@ -1,0 +1,6 @@
+hotfix/_: for quickly fixing critical issues,
+usually/_: with a temporary solution
+bugfix/_:	for fixing a bug
+feature/_:	for adding, removing or modifying a feature
+test/_:	for experimenting something which is not an issue
+wip/_:	for a work in progress
