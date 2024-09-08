@@ -18,3 +18,5 @@ unidecode
 llama-cpp-python
 llama-cpp-python[server]
 langchain_openai
+uvicorn
+nest_asyncio
