@@ -1,2 +1,6 @@
 .env/
 models/
+.vscode/
+model_class/__pycache__/
+model_class/function_calling/__pycache__/
+model_class/model_preparation/__pycache__/
