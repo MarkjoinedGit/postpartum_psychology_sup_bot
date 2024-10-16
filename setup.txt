@@ -23,5 +23,8 @@ nest_asyncio
 apscheduler
 instructor
 pydantic
-zoneinfo
 gradio
+openai
+langchain_core
+tqdm
+bs4
